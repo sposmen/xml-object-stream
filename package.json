@@ -13,7 +13,7 @@
     "prepublish": "coffee -c index.coffee"
   },
   "dependencies": {
-    "node-expat": "2.0.x"
+    "node-expat": "2.1.x"
   },
   "devDependencies": {
     "mocha": "~1.4.2",
